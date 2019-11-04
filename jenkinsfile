@@ -38,7 +38,7 @@ node
 	{
 	   step([$class: "RundeckNotifier", 
             includeRundeckLogs: true, 
-            jobId: "38f04e85-9da9-49ab-a17a-3a5792cdd666", 
+            jobId: "2b654301-856d-4f7c-8315-11c11908b686", 
             rundeckInstance: "Rundeck", 
             shouldFailTheBuild: true, 
             shouldWaitForRundeckJob: true, 
